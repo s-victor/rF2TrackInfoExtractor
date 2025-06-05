@@ -2,6 +2,8 @@
 
 A simple tool for batch extracting track GDB (Game Database File) info from all installed track mods in `rFactor 2` and exporting to spread sheet file (CSV).
 
+![preview](https://github.com/user-attachments/assets/c9789147-2221-4237-8af6-ad5404385f52)
+
 ## Exported field names from GDB file
 - GDBName
 - TrackName
